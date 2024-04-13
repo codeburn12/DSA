@@ -1,15 +1,3 @@
-1. 
-2. [Kth smallest element](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1)
-3. [Sort an array of 0s, 1s and 2s](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
-4. [Move all negative elements to end](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1)
-5. [Union of two arrays](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1)
-6. [Cyclically rotate an array by one](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
-7. [Kadane's Algorithm](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
-8. [Minimum number of jumps](https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
-9. [Find duplicates in an array](https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1)
-10. [Merge Without Extra Space](https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)
-
-
 Basic
 
 1. [Palindromic Array](https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1)
@@ -17,6 +5,10 @@ Basic
 3. [Triplet Sum in Array](https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1)
 4. [Find minimum and maximum element in an array](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1)
 5. 
+6. [Find duplicates in an array](https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1)
+7. [Cyclically rotate an array by one](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
+8. [Move all negative elements to end](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1)
+
 
 Sliding Window
 
@@ -32,3 +24,12 @@ Kadane's Algo
 
 1. [Maximum Subarray Sum](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
 2. [Smallest subarray with sum greater than x](https://www.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1)
+
+Concepts
+
+1. [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
+2. [Next Permutation](https://leetcode.com/problems/next-permutation/description/)
+3. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
+4. [Minimum number of jumps](https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
+5. [Minimize the Heights](https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1)
+
