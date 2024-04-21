@@ -24,6 +24,12 @@ Kadane's Algo
 
 1. [Maximum Subarray Sum](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
 2. [Smallest subarray with sum greater than x](https://www.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1)
+3. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
+
+
+PrefixSum
+
+1. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 
 Concepts
 
@@ -32,4 +38,4 @@ Concepts
 3. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 4. [Minimum number of jumps](https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
 5. [Minimize the Heights](https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1)
-
+6. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
