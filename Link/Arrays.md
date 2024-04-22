@@ -8,11 +8,13 @@ Basic
 6. [Find duplicates in an array](https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1)
 7. [Cyclically rotate an array by one](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
 8. [Move all negative elements to end](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1)
-
+9. [Factorials of large numbers](https://www.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1)
+10. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 
 Sliding Window
 
 1. [Minimum swaps and K together](https://www.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1)
+2. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 
 
 Dutch National Flag Algorithm
@@ -30,6 +32,7 @@ Kadane's Algo
 PrefixSum
 
 1. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
+2. [Count pairs with given sum](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1)
 
 Concepts
 
