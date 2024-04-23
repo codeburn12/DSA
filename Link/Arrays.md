@@ -10,6 +10,8 @@ Basic
 8. [Move all negative elements to end](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1)
 9. [Factorials of large numbers](https://www.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1)
 10. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+11. [Common elements](https://www.geeksforgeeks.org/problems/common-elements1132/1)
+12. [Alternate positive and negative numbers](https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1)
 
 Sliding Window
 
