@@ -12,6 +12,10 @@ Basic
 10. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 11. [Common elements](https://www.geeksforgeeks.org/problems/common-elements1132/1)
 12. [Alternate positive and negative numbers](https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1)
+13. [Middle of Three](https://www.geeksforgeeks.org/problems/middle-of-three2926/1)
+14. 
+15. [Majority Element(Moore's Voting Algo)](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1)
+16. []
 
 Sliding Window
 
@@ -35,6 +39,16 @@ PrefixSum
 
 1. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 2. [Count pairs with given sum](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1)
+
+Sorting 
+
+1. [Find Missing And Repeating(Cyclic Sort)](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)
+
+
+Searching
+
+1. [Find Pair Given Difference](https://www.geeksforgeeks.org/problems/find-pair-given-difference1559/1)
+2. [4Sum](https://www.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1)
 
 Concepts
 
