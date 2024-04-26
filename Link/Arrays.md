@@ -49,6 +49,13 @@ Searching
 
 1. [Find Pair Given Difference](https://www.geeksforgeeks.org/problems/find-pair-given-difference1559/1)
 2. [4Sum](https://www.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1)
+3. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+4. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
+
+
+Two Pointer
+
+1. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
 
 Concepts
 
