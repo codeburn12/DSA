@@ -15,7 +15,6 @@ Basic
 13. [Middle of Three](https://www.geeksforgeeks.org/problems/middle-of-three2926/1)
 14. [Chocolate Distribution Problem](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)
 15. [Majority Element(Moore's Voting Algo)](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1)
-<!-- TO do -->
 16. [Arithmetic Number](https://www.geeksforgeeks.org/problems/arithmetic-number2815/1)
 17. [Roman Number to Integer](https://www.geeksforgeeks.org/problems/roman-number-to-integer3201/1)
 18. 
@@ -24,7 +23,6 @@ Sliding Window
 
 1. [Minimum swaps and K together](https://www.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1)
 2. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
-<!-- To do -->
 3. [Smallest distinct window](https://www.geeksforgeeks.org/problems/smallest-distant-window3132/1)
 4. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
 5. 
@@ -45,7 +43,6 @@ PrefixSum
 
 1. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 2. [Count pairs with given sum](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1)
-<!-- To do -->
 3. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
 
 Sorting 

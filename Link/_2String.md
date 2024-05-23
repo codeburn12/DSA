@@ -5,7 +5,7 @@
 8. [Find first repeated character](https://www.geeksforgeeks.org/problems/find-first-repeated-character4108/1)
 10. [Remove Consecutive Characters](https://www.geeksforgeeks.org/problems/consecutive-elements2306/1)
 13. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
-<!-- To do -->
+<!-- To do(24/05) -->
 5. [Split the binary string into substrings with equal number of 0s and 1s](https://www.geeksforgeeks.org/problems/split-the-binary-string-into-substrings-with-equal-number-of-0s-and-1s/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article)
 6. [Search Pattern](https://www.geeksforgeeks.org/problems/search-pattern-rabin-karp-algorithm--141631/1)
 7. [Longest Common Prefix in an Array](https://www.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1)
