@@ -2,7 +2,7 @@
 2. [Find position of set bit](https://www.geeksforgeeks.org/problems/find-position-of-set-bit3706/1)
 5. [Subsets](https://leetcode.com/problems/subsets/description/)
 <!-- To do(25/05) -->
-3. [Count total set bits](https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)
+
 4. [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)
 6. [Single Number(Other Number Once Times)](https://leetcode.com/problems/single-number-ii/description/)
 7. [Single Number(Other Number Two Times)](https://leetcode.com/problems/single-number-iii/description/)

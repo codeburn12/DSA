@@ -8,16 +8,14 @@ Basic
 6. [Find duplicates in an array](https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1)
 7. [Cyclically rotate an array by one](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
 8. [Move all negative elements to end](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1)
-9. [Factorials of large numbers](https://www.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1)
+
 10. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 11. [Common elements](https://www.geeksforgeeks.org/problems/common-elements1132/1)
 12. [Alternate positive and negative numbers](https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1)
 13. [Middle of Three](https://www.geeksforgeeks.org/problems/middle-of-three2926/1)
 14. [Chocolate Distribution Problem](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)
 15. [Majority Element(Moore's Voting Algo)](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1)
-16. [Arithmetic Number](https://www.geeksforgeeks.org/problems/arithmetic-number2815/1)
-17. [Roman Number to Integer](https://www.geeksforgeeks.org/problems/roman-number-to-integer3201/1)
-18. 
+ 
 
 Sliding Window
 
