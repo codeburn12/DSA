@@ -86,7 +86,6 @@ Matrix
 3. [Sorted matrix](https://www.geeksforgeeks.org/problems/sorted-matrix2333/1)
 4. [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/description/)
 5. [Median in a row-wise sorted Matrix](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1)
-<!--  -->
 6. [Rotate Image](https://leetcode.com/problems/rotate-image/description/)
 
 Concepts
