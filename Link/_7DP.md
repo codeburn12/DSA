@@ -1,4 +1,13 @@
 <!-- To do -->
+1. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
+2. [Longest Common Substring](https://www.geeksforgeeks.org/problems/longest-common-substring1452/1)
+3. [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/)
+4. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
+5. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning-ii/description/)
+6. [Unique Paths](https://leetcode.com/problems/unique-paths/description/)
+7. [Matrix Chain Multiplication](https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=matrix-chain-multiplication)
+
+
 1. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 2. [Longest Repeating Subsequence](https://www.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1)
 3. [Count Palindromic Subsequences](https://www.geeksforgeeks.org/problems/count-palindromic-subsequences/1)

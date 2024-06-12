@@ -45,7 +45,12 @@ PrefixSum
 
 Sorting 
 
-1. [Find Missing And Repeating(Cyclic Sort)](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)
+1. [Selection Sort](https://www.geeksforgeeks.org/problems/selection-sort/1)
+2. [Bubble Sort](https://www.geeksforgeeks.org/problems/bubble-sort/1)
+3. [Insertion Sort](https://www.geeksforgeeks.org/problems/insertion-sort/1)
+4. [Quick Sort](https://www.geeksforgeeks.org/problems/quick-sort/1)
+5. [Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1)
+6. [Find Missing And Repeating(Cyclic Sort)](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)
 <!-- To do -->
 2. [Minimum Swaps to Sort](https://www.geeksforgeeks.org/problems/minimum-swaps/1)
 3. [Count Inversions](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)
